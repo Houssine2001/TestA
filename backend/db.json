@@ -1,0 +1,17 @@
+{
+  "albums": [
+    {
+      "id": "2b32",
+      "title": "Aid 2023",
+      "description": "Aid 2023",
+      "creationDate": "12-06-2023",
+      "archived": 1,
+      "coverPicture": "../../../assets/houssin.jpg"
+    },
+    {
+      "title": "aaa",
+      "coverPicture": "gggffff",
+      "id": "jwjwHE7"
+    }
+  ]
+}
